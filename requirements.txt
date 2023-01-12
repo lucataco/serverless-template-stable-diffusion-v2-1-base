@@ -1,3 +1,8 @@
+git+https://github.com/huggingface/diffusers.git
+--extra-index-url https://download.pytorch.org/whl/cu116
+transformers==4.19.2
 sanic==22.6.2
-transformers
+torchvision==0.13.1
+ftfy==4.4.3
 accelerate
+scipy
