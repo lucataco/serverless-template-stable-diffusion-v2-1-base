@@ -1,0 +1,12 @@
+{
+    "name": "Stable Diffusion v2.1",
+    "category": "Computer Vision",
+    "example_input": {
+        "prompt": "a photo of an astronaut riding a horse on mars",
+        "negative": "blurry",
+        "num_inference_steps" : 20,
+        "guidance_scale" : 7
+    },
+    "example_output": {"base64_output": "<BASE64_STRING>"},
+    "version": "1"
+  }
